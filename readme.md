@@ -1,3 +1,3 @@
 # Data Science  
 
-This repo includes some demonstration using data science tools.  
+This repo includes some demonstration of using data science tools.  
