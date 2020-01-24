@@ -1,7 +1,7 @@
 # Data Science  
 
 This repo includes some demonstration of using data science tools. 
-They are more of demonstrating a particular subject rather than wholesome projects.   
+Currently, they are more of demonstrations of particular topics rather than wholesome projects.   
 
 So far, I have included  
 
